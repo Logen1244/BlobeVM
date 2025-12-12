@@ -10,3 +10,5 @@ chmod +x install.sh
 **DO NOT USE FOR BAD** 
 
 Use At You OWN Risk (ANY Trouble You Get Into IS NOT On Me)
+
+**Your Useing It At Your OWN Risk**  (Do Not Blame It On Me if YOu get in Trouble)
