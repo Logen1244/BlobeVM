@@ -45,3 +45,5 @@ No warranty / Limitation of liability:
 If you find a security issue or unexpected behavior, please report it by opening an issue in this repository and include as much detail as possible so it can be investigated and fixed.
 
 Use at your own risk. You assume full responsibility for anything that happens as a result of running this software.
+
+-Software Will Be Upated Weekly-
