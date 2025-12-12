@@ -7,3 +7,6 @@ curl -O https://raw.githubusercontent.com/Blobby-Boi/BlobeVM/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
+**DO NOT USE FOR BAD** 
+
+Use At You OWN Risk (ANY Trouble You Get Into IS NOT On Me)
